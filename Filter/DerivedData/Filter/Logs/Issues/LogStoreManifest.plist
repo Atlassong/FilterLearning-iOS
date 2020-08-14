@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7D049CA7-46CE-4328-9849-699BABF83D47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>7D049CA7-46CE-4328-9849-699BABF83D47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-Filter-czyvswtbzttrqsexqwznlvtckqol</string>
+			<key>timeStartedRecording</key>
+			<real>619084074.79621601</real>
+			<key>timeStoppedRecording</key>
+			<real>619084079.03050101</real>
+			<key>title</key>
+			<string>Build target Pods-Filter</string>
+			<key>uniqueIdentifier</key>
+			<string>7D049CA7-46CE-4328-9849-699BABF83D47</string>
+		</dict>
+		<key>B8E19CF6-7AAF-4D35-A05A-45E38C32A848</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>B8E19CF6-7AAF-4D35-A05A-45E38C32A848.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Masonry-czyvswtbzttrqsexqwznlvtckqol</string>
+			<key>timeStartedRecording</key>
+			<real>619084074.78896201</real>
+			<key>timeStoppedRecording</key>
+			<real>619084078.09086204</real>
+			<key>title</key>
+			<string>Build target Masonry</string>
+			<key>uniqueIdentifier</key>
+			<string>B8E19CF6-7AAF-4D35-A05A-45E38C32A848</string>
+		</dict>
+		<key>F4790AA4-87B4-4257-8393-9BE4D247909E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F4790AA4-87B4-4257-8393-9BE4D247909E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Filter-gqhpmqaktcimoufntgreyybwabvo</string>
+			<key>timeStartedRecording</key>
+			<real>619084074.79183698</real>
+			<key>timeStoppedRecording</key>
+			<real>619084086.02523398</real>
+			<key>title</key>
+			<string>Build target Filter</string>
+			<key>uniqueIdentifier</key>
+			<string>F4790AA4-87B4-4257-8393-9BE4D247909E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
