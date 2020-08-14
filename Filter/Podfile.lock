@@ -5,7 +5,7 @@ DEPENDENCIES:
   - Masonry
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Masonry
 
 SPEC CHECKSUMS:
@@ -13,4 +13,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: dd59273e0381b7a7116522299f10c2d6d7e62842
 
-COCOAPODS: 1.6.2
+COCOAPODS: 1.9.3
